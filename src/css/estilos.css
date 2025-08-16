@@ -99,22 +99,22 @@ body{
     transform: scale(1.1);
 }
 
-.home .container-foto .foto{
+/* .home .container-foto .foto{
     max-width: 450px;
     border-radius: 50%;
 
-}
+} */
 
 .home .container-foto img{
     width: 100%;
-    border-radius: 50%;
+    height: 100%;
 }
 
-.home .foto.sombra-interna{
+/* .home .foto.sombra-interna{
     background: linear-gradient(to right, #2950cf, #ea9310, #f1bc40);
     background-size: 180% 180%;
     animation: gradient-animation 5s ease infinite;
-}
+} */
 
 .projetos{
     padding: 70px 0;
